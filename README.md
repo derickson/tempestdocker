@@ -18,3 +18,13 @@ hello world!
 Welcome to python cron job
 hello world!
 ```
+
+
+## .env file required
+
+make a .env file that has the following format
+
+```
+STATION_NUMBER=XXX
+TOKEN=XXXX
+```
